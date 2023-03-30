@@ -1,0 +1,7 @@
+references/
+test/
+embeddings/
+stanford_tree_bank/
+twitter_airline_review/
+*./pdf
+
