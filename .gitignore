@@ -2,7 +2,6 @@ references/
 test/
 embeddings/
 *./pdf
-results/
 notes.txt
 test.txt
 checkpoints/ 
